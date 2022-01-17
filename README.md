@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Simina-Urzica!
-- 👀 I’m interested in Front-End programming and Web Development.
-- 🌱 I’m currently learning Javascript and Angular(post learning HTML5, CSS3 and Bootstrap 3 && 4; :)
-- 💞️ I’m looking to collaborate on different topics connected to my learning path. Hands-on experience beats any theory, right?! 
+- 🌱 I’m currently learning Web Development.
+- 💞️ Looking forward to collaborate on different topics related to my learning path([JS FullStack:{ES5,ES6, React, Node:{Express}, NextJs}, Wordpress, CSS3, Bootstrap5, Chackra UI]). Hands-on experience beats any theory, right?! 
 - 📫 You can reach out to me on LinkedIn or at siminaurzica568@gmail.com .
 
 <!---
